@@ -1,4 +1,9 @@
 # dotslate
 
+Download the file using either command:
 
-git fetch git@github.com:jfreeze/dotslate.git/dot_slate ~/.slate
+    wget -O ~/.slate https://raw.githubusercontent.com/jfreeze/dotslate/master/dot_slate
+
+or
+
+    curl -o ~/.slate https://raw.githubusercontent.com/jfreeze/dotslate/master/dot_slate
